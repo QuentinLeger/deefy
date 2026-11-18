@@ -3,3 +3,4 @@ vendor/
 composer.phar
 audio/*.mp3
 !audio/6ac5f7ab894d2.mp3
+src/config/db.config.ini

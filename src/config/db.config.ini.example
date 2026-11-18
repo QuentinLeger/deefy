@@ -1,0 +1,5 @@
+driver = mysql
+host = db
+database = s3
+username = s3
+password = s3
